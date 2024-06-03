@@ -1,6 +1,6 @@
 
 <div>
-    <h1>Proyecto Integrador 2 de Henry: Implementación de un MVP de Big Data en Hadoop con Docker(Pendiente por culminar - avance realizado hasta Mongo y Neo4j)</h1>
+    <h1>Proyecto Integrador 2 de Henry: Implementación de un MVP de Big Data en Hadoop con Docker(Pendiente por culminar - avance realizado hasta Mongo y Neo4j- falta cargar resultados)</h1>
     <div>
         <h2>¡Bienvenidos a la Revolución de Big Data!</h2>
     </div>
